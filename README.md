@@ -48,11 +48,4 @@ A streamlined Android application built with **Kotlin** and **Jetpack Compose** 
    <img width="614" height="503" alt="image" src="https://github.com/user-attachments/assets/35191ddf-ffdb-4ffa-8ced-b48460d0554d" />
 
 
-
-
----
-
-
-## 📄 License
-
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
